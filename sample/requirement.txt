@@ -1,6 +1,6 @@
 aiohttp==3.9.5
 beautifulsoup4==4.12.3
-newspaper3k==0.2.8
+newspaper==0.2.8
 nltk==3.8.1
 pandas==2.2.2
 pyttsx3==2.90
